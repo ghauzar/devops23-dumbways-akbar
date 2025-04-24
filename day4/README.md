@@ -183,4 +183,21 @@ git status
 ```
 git add .
 ```
-![image](img/a.png)
+![image](img/b.png)
+
+## 3. Melakukan commit dan memberikan pesan "4th day task"
+```
+git commit -m "4th day task"
+```
+![image](img/c.png)
+
+
+## 4. Terdapat modifikasi file README.md dan penambahan gambar baru, oleh karena itu dapat mengubah status menjadi stage dengan command berikut:
+```
+git add .
+```
+
+## 4. Mengirim perubahan ke repositori Github
+```
+git push -u origin main
+```
