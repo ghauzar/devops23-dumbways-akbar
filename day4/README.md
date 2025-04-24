@@ -196,8 +196,14 @@ git commit -m "4th day task"
 ```
 git add .
 ```
+![image](img/d.png)
 
 ## 4. Mengirim perubahan ke repositori Github
 ```
 git push -u origin main
 ```
+![image](img/e.png)
+
+## 5. Hasilnya repositori di Github telah berubah
+![image](img/f.png)
+![image](img/g.png)
