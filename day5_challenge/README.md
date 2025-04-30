@@ -34,7 +34,7 @@ pm2 start index.py --interpreter python3 --name server-python
 ![image](img/simulate.gif)
 
 
-# Golang Bisa Dibuka di Server
+# Golang Bisa Dibuka di Browser
 ## 1. Menuju ke direktori `goloang_day_task_5`, kemudian membuat file yang menjadi server dari bahasa Golang dengan nama `web.go`
 ```
 cd golang_day_task_5
